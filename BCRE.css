@@ -1,0 +1,21 @@
+
+body {
+	background-color: black;
+}
+
+h1 {
+	color: rgb(0, 205, 36);
+	text-align: center;
+	border: solid rgb(0, 205, 36);
+	margin: inherit;
+	padding: auto;
+}
+
+button {
+	background-color: grey;
+	border: solid black;
+}
+button:hover {
+	background-color: rgb(0, 205, 36);
+	border: solid black;
+}
